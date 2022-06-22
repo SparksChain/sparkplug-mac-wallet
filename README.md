@@ -30,7 +30,7 @@ wget "https:sparkplugcoin-qt.dmg" -O sparkplugcoin-qt.dmg
 
 Download the macOS tools for your wallet with the following command:
 
-wget "https:sparkplugcoin-tools-macos.tar.gz" -O sparkplugcoin-tools-macos.tar.gz
+wget "https://github.com/SparksChain/sparkplug-mac-wallet/raw/main/sparkplugcoin-tools-macos.tar.gz" -O sparkplugcoin-tools-macos.tar.gz
 
 Extract the tar file with the following command:
 
