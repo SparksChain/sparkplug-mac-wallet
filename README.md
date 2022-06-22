@@ -26,7 +26,11 @@ brew install wget
 
 Download your macOS wallet with the following command:
 
-wget "https://askthenerd.net/wp-content/uploads/2022/06/sparkplugcoin-qt.dmg" -O sparkplugcoin-qt.dmg
+wget "https://github.com/SparksChain/sparkplug-mac-wallet/raw/main/sparkplugcoin-qt.tar.gz" -O sparkplugcoin-qt.dmg
+
+Extract the tar file with the following command:
+
+tar -xzvf sparkplugcoin-qt.tar.gz
 
 Download the macOS tools for your wallet with the following command:
 
